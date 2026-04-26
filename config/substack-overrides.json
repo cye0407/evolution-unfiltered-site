@@ -1,4 +1,8 @@
 {
   "items": {},
-  "guid_overrides": {}
+  "guid_overrides": {
+    "https://substack.com/@emergencepr/note/c-249426853": {
+      "hidden": true
+    }
+  }
 }
