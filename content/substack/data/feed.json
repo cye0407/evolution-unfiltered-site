@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-04-26T11:43:15.983Z",
+  "source_count": 4,
+  "item_count": 7,
+  "note_count": 6,
+  "post_count": 1,
+  "error_count": 0,
+  "sources": [
+    {
+      "source_id": "evolution-unfiltered",
+      "notes": 5,
+      "posts": 0,
+      "skipped": 0
+    },
+    {
+      "source_id": "emergence-pr",
+      "notes": 0,
+      "posts": 0,
+      "skipped": 0
+    },
+    {
+      "source_id": "catherine-has-clients",
+      "notes": 1,
+      "posts": 1,
+      "skipped": 0
+    },
+    {
+      "source_id": "cat-yeldi",
+      "notes": 0,
+      "posts": 0,
+      "skipped": 1
+    }
+  ],
+  "errors": [],
+  "items": [
+    {
+      "id": "evolution-unfiltered-15a6a3af1c785823",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "It's done.",
+      "content": "It's done. \n\nMy publicity problems are to be solved by the professionals at Emergence PR.\n\nI'm told I will be working with Ms. Catherine \"Reggie\" Keenan and have been assured that she is the absolute best.\n\nShe must be counting down the minutes, nay, seconds until she has the pleasure of meeting me. Lucky girl.\n\nUntil Monday, \n\nThe One and Only Evi",
+      "content_html": "<p>It&#39;s done. \n\nMy publicity problems are to be solved by the professionals at Emergence PR.\n\nI&#39;m told I will be working with Ms. Catherine &quot;Reggie&quot; Keenan and have been assured that she is the absolute best.\n\nShe must be counting down the minutes, nay, seconds until she has the pleasure of meeting me. Lucky girl.\n\nUntil Monday, \n\nThe One and Only Evi</p>",
+      "date": "2026-04-26T08:00:01.053Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "evolution-unfiltered-79b64adeb36e9643",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "I've been thinking. Which, for me, is practically a geological event.",
+      "content": "I've been thinking. Which, for me, is practically a geological event.\n\nWhat if I hired someone? A person. A professional. One of those humans who writes statements for other humans when the other humans are clearly misunderstood.\n\nI believe they're called publicists.\n\nYou would think my reputation would speak for itself. Alas, the last century has not been working in my favor.\n\n— Evi",
+      "content_html": "<p>I&#39;ve been thinking. Which, for me, is practically a geological event.\n\nWhat if I hired someone? A person. A professional. One of those humans who writes statements for other humans when the other humans are clearly misunderstood.\n\nI believe they&#39;re called publicists.\n\nYou would think my reputation would speak for itself. Alas, the last century has not been working in my favor.\n\n— Evi</p>",
+      "date": "2026-04-25T10:00:00.900Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "evolution-unfiltered-64a2e3be61ffe249",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "(Sigh) Another day, another influencer misequating survival of the fittest with alpha m...",
+      "content": "(Sigh) Another day, another influencer misequating survival of the fittest with alpha male nonsense and misappropriating the term evolution.\n\nThis is getting ridiculous. I am not into chest beating. I am into the strange and adaptive.\n\nThis is giving me a headache. You'd think we would be further after 4 billion years.\n\n— Evi, the original",
+      "content_html": "<p>(Sigh) Another day, another influencer misequating survival of the fittest with alpha male nonsense and misappropriating the term evolution.\n\nThis is getting ridiculous. I am not into chest beating. I am into the strange and adaptive.\n\nThis is giving me a headache. You&#39;d think we would be further after 4 billion years.\n\n— Evi, the original</p>",
+      "date": "2026-04-24T19:36:55.336Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "catherine-has-clients-3c0d244ec5531a91",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "My boss Dennis set a meeting for Monday at 9:00. A new client. He says it's the biggest...",
+      "content": "My boss Dennis set a meeting for Monday at 9:00. A new client. He says it's the biggest account we've ever had.\n\nHe also wouldn't tell me who it is. Which is fine (not really).\n\n— Catherine \"Reggie\" Keenan, Emergence PR",
+      "content_html": "<p>My boss Dennis set a meeting for Monday at 9:00. A new client. He says it&#39;s the biggest account we&#39;ve ever had.\n\nHe also wouldn&#39;t tell me who it is. Which is fine (not really).\n\n— Catherine &quot;Reggie&quot; Keenan, Emergence PR</p>",
+      "date": "2026-04-24T18:40:32.810Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "catherine-has-clients-8fe4c20f7596fed5",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "Coming Monday.",
+      "content": "IN A WORLD... ...where reputations are fragile... ...where narratives are contested... ...where every client has a story, and every story needs a voice... ONE WOMAN stands between chaos and the press release. She’s launched products. She’s weathered scandals. She’s drafted apologies for men who refused to read them. Now, she faces the biggest account of her career. Meet Catherine “Reggie” Keenan. Twelve-year veteran of the communications industry. Senior Communications Specialist at Emergence PR — the boutique firm representing some of the most influential forces in history. The ones with the longest tenures. The biggest reputations. The worst press. She has a roster. She has a best friend. She has a therapist she hasn’t called yet. She has a dog named Marv. And starting Monday... she has a problem. CATHERINE HAS CLIENTS. A new dispatch from the front lines of professional communications. Starring Catherine. And Marv. Media. Messaging. The occasional mass extinction event. STARTING APRIL 27. NEW ENTRIES EVERY MONDAY. Subscribe now. Get the inside scoop. Rated PR for Professional Representation.",
+      "content_html": "<p><strong>IN A WORLD...</strong></p><p>...where reputations are fragile...</p><p>...where narratives are contested...</p><p>...where every client has a story, and every story needs a voice...</p><p><strong>ONE WOMAN</strong> stands between chaos and the press release.</p><p></p><p>She&#8217;s launched products.</p><p>She&#8217;s weathered scandals.</p><p>She&#8217;s drafted apologies for men who refused to read them.</p><p>Now, she faces the biggest account of her career.</p><p></p><p><strong>Meet Catherine &#8220;Reggie&#8221; Keenan.</strong></p><p>Twelve-year veteran of the communications industry. Senior Communications Specialist at <strong>Emergence PR</strong> &#8212; the boutique firm representing some of the most influential forces in history.</p><p>The ones with the longest tenures. The biggest reputations. The worst press.</p><p></p><p>She has a roster.</p><p>She has a best friend.</p><p>She has a therapist she hasn&#8217;t called yet.</p><p>She has a dog named <strong>Marv.</strong></p><p>And starting Monday... she has a problem.</p><p></p><p><em><strong>CATHERINE HAS CLIENTS.</strong></em></p><p><em>A new dispatch from the front lines of professional communications.</em></p><p><strong>Starring Catherine. And Marv.</strong></p><p>Media. Messaging. The occasional mass extinction event.</p><div><hr></div><p style=\"text-align: center;\"><strong>STARTING APRIL 27.</strong></p><p style=\"text-align: center;\"><strong>NEW ENTRIES EVERY MONDAY.</strong></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://catherinehasclients.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\"><em>Subscribe now. Get the inside scoop.</em></p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p style=\"text-align: center;\"><strong>Rated PR for Professional Representation.</strong></p>",
+      "date": "2026-04-24T18:31:30.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [],
+      "url": "https://catherinehasclients.substack.com/p/coming-monday",
+      "guid": "https://catherinehasclients.substack.com/p/coming-monday",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "evolution-unfiltered-04296e3fd29a6ba7",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "Accurate.",
+      "content": "Accurate.\n\nAlso, I never signed anything. \n\nSee you Wednesday.\n\n– Evi",
+      "content_html": "<p>Accurate.\n\nAlso, I never signed anything. \n\nSee you Wednesday.\n\n– Evi</p>",
+      "date": "2025-12-22T18:36:10.489Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-190641209",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-190641209",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    },
+    {
+      "id": "evolution-unfiltered-33343b48c9ff71f9",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "It’s about time.",
+      "content": "It’s about time.\n\nFinally.\n\nI have waited 150 years since Darwin for someone to stop calling me \"random,\" stop confusing \"fitness\" with gym memberships, and stop acting like I gently gardened life into existence.\n\nI did not.\n\nI weaponized oxygen. I invented sex. I survived five mass extinctions. I am currently stress-testing intelligence, climate, and whatever humans are calling their latest existential crisis.\n\nAnd yet somehow, I was made boring.\n\nNo more.\n\nI've finally found someone who might… might…. be capable of handling my story. Catherine \"Regi\" Keenan from Emergence PR. She seemed a bit startled when I explained who I was, but that's to be expected. Most humans are.\n\nThe podcast is live. Episode 1: The First Call, where you get to witness our first conversation. \n\nFair warning — she led with thumbs. Thumbs. We're working on it.\n\nThis is not a lecture. It's a reputation repair.\n\nYou may call me Evi. Only my ex-protists use my full name.\n\nWelcome to the real story.\n\nIt adapts.\n\n— Evi (Yes. That Evolution.)",
+      "content_html": "<p>It’s about time.\n\nFinally.\n\nI have waited 150 years since Darwin for someone to stop calling me &quot;random,&quot; stop confusing &quot;fitness&quot; with gym memberships, and stop acting like I gently gardened life into existence.\n\nI did not.\n\nI weaponized oxygen. I invented sex. I survived five mass extinctions. I am currently stress-testing intelligence, climate, and whatever humans are calling their latest existential crisis.\n\nAnd yet somehow, I was made boring.\n\nNo more.\n\nI&#39;ve finally found someone who might… might…. be capable of handling my story. Catherine &quot;Regi&quot; Keenan from Emergence PR. She seemed a bit startled when I explained who I was, but that&#39;s to be expected. Most humans are.\n\nThe podcast is live. Episode 1: The First Call, where you get to witness our first conversation. \n\nFair warning — she led with thumbs. Thumbs. We&#39;re working on it.\n\nThis is not a lecture. It&#39;s a reputation repair.\n\nYou may call me Evi. Only my ex-protists use my full name.\n\nWelcome to the real story.\n\nIt adapts.\n\n— Evi (Yes. That Evolution.)</p>",
+      "date": "2025-12-17T18:44:10.948Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-188884120",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-188884120",
+      "fetched_at": "2026-04-26T11:43:15.983Z"
+    }
+  ]
+}

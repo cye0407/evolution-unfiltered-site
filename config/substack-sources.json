@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "id": "evolution-unfiltered",
+      "name": "Evolution Unfiltered",
+      "publication_subdomain": "evolutionunfiltered",
+      "profile_handle": "evolutionunfiltered",
+      "enabled": true,
+      "default_arc": null,
+      "default_character": "Evi",
+      "include_notes": true,
+      "include_posts": true
+    },
+    {
+      "id": "emergence-pr",
+      "name": "Emergence PR",
+      "publication_subdomain": "emergencepr",
+      "profile_handle": "emergencepr",
+      "enabled": true,
+      "default_arc": null,
+      "default_character": "Catherine",
+      "include_notes": true,
+      "include_posts": true
+    },
+    {
+      "id": "catherine-has-clients",
+      "name": "Catherine Has Clients",
+      "publication_subdomain": "catherinehasclients",
+      "profile_handle": "catherinereggiekeenan",
+      "enabled": true,
+      "default_arc": null,
+      "default_character": "Catherine",
+      "include_notes": true,
+      "include_posts": true
+    },
+    {
+      "id": "cat-yeldi",
+      "name": "Cat Yeldi",
+      "publication_subdomain": "catyeldi",
+      "profile_handle": "catyeldi",
+      "enabled": true,
+      "default_arc": null,
+      "default_character": "Cat",
+      "include_notes": false,
+      "include_posts": true,
+      "post_tag_filter": [
+        "evolution unfiltered",
+        "evolution-unfiltered",
+        "evolutionunfiltered",
+        "eu"
+      ]
+    }
+  ]
+}

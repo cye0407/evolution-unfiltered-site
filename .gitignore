@@ -11,3 +11,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 *.tsbuildinfo
+
+# Plugin zip artifacts (rebuild from wordpress-plugin/eu-notes-feed/ on demand)
+wordpress-plugin/*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
