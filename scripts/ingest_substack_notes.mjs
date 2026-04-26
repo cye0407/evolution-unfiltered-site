@@ -10,7 +10,12 @@ const DEFAULT_CONFIG_PATH = path.join(ROOT, "config", "substack-sources.json");
 const DEFAULT_OUTPUT_DIR = path.join(ROOT, "content", "substack", "data");
 const DEFAULT_OUTPUT_PATH = path.join(DEFAULT_OUTPUT_DIR, "feed.json");
 const USER_AGENT =
-  "evolution-unfiltered-ingestor/2.0 (+https://evolutionunfiltered.com)";
+  "Mozilla/5.0 (compatible; evolutionunfiltered-feed-bot/2.0; +https://evolutionunfiltered.com)";
+const DEFAULT_HEADERS = {
+  "user-agent": USER_AGENT,
+  accept: "application/json,application/rss+xml,application/xml;q=0.9,*/*;q=0.8",
+  "accept-language": "en-US,en;q=0.9",
+};
 const FETCH_TIMEOUT_MS = 15000;
 const NOTES_PER_PROFILE = 25;
 
@@ -33,7 +38,7 @@ async function fetchWithTimeout(url, init = {}) {
     const response = await fetch(url, {
       ...init,
       signal: controller.signal,
-      headers: { "user-agent": USER_AGENT, ...(init.headers || {}) },
+      headers: { ...DEFAULT_HEADERS, ...(init.headers || {}) },
     });
     return response;
   } finally {
@@ -280,11 +285,9 @@ async function main() {
         allItems.push(...notes);
         sourceStat.notes = notes.length;
       } catch (error) {
-        errors.push({
-          source_id: source.id,
-          stage: "notes",
-          message: error instanceof Error ? error.message : String(error),
-        });
+        const message = error instanceof Error ? error.message : String(error);
+        errors.push({ source_id: source.id, stage: "notes", message });
+        console.error(`[notes] ${source.id}: ${message}`);
       }
     } else {
       sourceStat.skipped += 1;
@@ -296,11 +299,9 @@ async function main() {
         allItems.push(...posts);
         sourceStat.posts = posts.length;
       } catch (error) {
-        errors.push({
-          source_id: source.id,
-          stage: "posts",
-          message: error instanceof Error ? error.message : String(error),
-        });
+        const message = error instanceof Error ? error.message : String(error);
+        errors.push({ source_id: source.id, stage: "posts", message });
+        console.error(`[posts] ${source.id}: ${message}`);
       }
     } else {
       sourceStat.skipped += 1;
@@ -313,17 +314,25 @@ async function main() {
   const noteCount = items.filter((i) => i.type === "note").length;
   const postCount = items.filter((i) => i.type === "post").length;
 
-  await writeJson(args.output, {
-    generated_at: fetchedAt,
-    source_count: sources.length,
-    item_count: items.length,
-    note_count: noteCount,
-    post_count: postCount,
-    error_count: errors.length,
-    sources: stats,
-    errors,
-    items,
-  });
+  const totalFailure = items.length === 0 && errors.length > 0;
+
+  if (!totalFailure) {
+    await writeJson(args.output, {
+      generated_at: fetchedAt,
+      source_count: sources.length,
+      item_count: items.length,
+      note_count: noteCount,
+      post_count: postCount,
+      error_count: errors.length,
+      sources: stats,
+      errors,
+      items,
+    });
+  } else {
+    console.error(
+      "All sources failed; preserving previous feed.json instead of overwriting with empty output."
+    );
+  }
 
   process.stdout.write(
     `${JSON.stringify({
@@ -332,10 +341,11 @@ async function main() {
       note_count: noteCount,
       post_count: postCount,
       error_count: errors.length,
+      wrote_output: !totalFailure,
     })}\n`
   );
 
-  process.exitCode = errors.length > 0 ? 1 : 0;
+  process.exitCode = totalFailure ? 1 : 0;
 }
 
 await main();
