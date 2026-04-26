@@ -3,7 +3,7 @@
  * Plugin Name: Evolution Unfiltered Notes Feed
  * Plugin URI: https://evolutionunfiltered.com/
  * Description: Renders the Git-automated Substack notes JSON feed inside WordPress via shortcode.
- * Version: 0.1.2
+ * Version: 0.1.3
  * Author: Cat Yeldi / Codex
  * License: GPL-2.0-or-later
  * Requires at least: 4.7
@@ -15,7 +15,7 @@ if (!defined('ABSPATH')) {
 }
 
 final class EU_Notes_Feed {
-    const VERSION = '0.1.2';
+    const VERSION = '0.1.3';
     const SHORTCODE = 'eu_notes_feed';
     const CACHE_PREFIX = 'eu_notes_feed_';
     const DEFAULT_LIMIT = 12;
@@ -74,16 +74,42 @@ final class EU_Notes_Feed {
                 $title = isset($item['title']) ? (string) $item['title'] : '';
                 $content = isset($item['content']) ? (string) $item['content'] : '';
                 $source_name = isset($item['source_name']) ? (string) $item['source_name'] : '';
+                $source_publication = isset($item['source_publication']) ? (string) $item['source_publication'] : '';
+                $source_handle = isset($item['source_handle']) ? (string) $item['source_handle'] : '';
                 $character = isset($item['character']) ? (string) $item['character'] : '';
                 $arc = isset($item['arc']) ? (string) $item['arc'] : '';
                 $url_value = isset($item['url']) ? esc_url($item['url']) : '';
                 $date_value = isset($item['date']) ? (string) $item['date'] : '';
+                $publication_url = $source_publication !== '' ? esc_url('https://' . $source_publication . '.substack.com/') : '';
+                $profile_url = $source_handle !== '' ? esc_url('https://substack.com/@' . $source_handle) : '';
                 ?>
                 <article class="eu-notes-feed__item">
                     <?php if ($show_date && $date_value !== '') : ?>
                         <time class="eu-notes-feed__date" datetime="<?php echo esc_attr($date_value); ?>">
                             <?php echo esc_html(self::format_date($date_value)); ?>
                         </time>
+                    <?php endif; ?>
+
+                    <?php if ($show_source || $character !== '' || $arc !== '') : ?>
+                        <div class="eu-notes-feed__meta">
+                            <?php if ($show_source && $source_name !== '') : ?>
+                                <?php if ($publication_url !== '') : ?>
+                                    <a class="eu-notes-feed__pill" href="<?php echo $publication_url; ?>" target="_blank" rel="noopener noreferrer"><?php echo esc_html($source_name); ?></a>
+                                <?php else : ?>
+                                    <span class="eu-notes-feed__pill"><?php echo esc_html($source_name); ?></span>
+                                <?php endif; ?>
+                            <?php endif; ?>
+                            <?php if ($character !== '') : ?>
+                                <?php if ($profile_url !== '') : ?>
+                                    <a class="eu-notes-feed__pill" href="<?php echo $profile_url; ?>" target="_blank" rel="noopener noreferrer"><?php echo esc_html($character); ?></a>
+                                <?php else : ?>
+                                    <span class="eu-notes-feed__pill"><?php echo esc_html($character); ?></span>
+                                <?php endif; ?>
+                            <?php endif; ?>
+                            <?php if ($arc !== '') : ?>
+                                <span class="eu-notes-feed__pill"><?php echo esc_html($arc); ?></span>
+                            <?php endif; ?>
+                        </div>
                     <?php endif; ?>
 
                     <?php if ($title !== '') : ?>
@@ -100,20 +126,6 @@ final class EU_Notes_Feed {
 
                     <?php if ($content !== '') : ?>
                         <p class="eu-notes-feed__content"><?php echo esc_html($content); ?></p>
-                    <?php endif; ?>
-
-                    <?php if ($show_source || $character !== '' || $arc !== '') : ?>
-                        <div class="eu-notes-feed__meta">
-                            <?php if ($show_source && $source_name !== '') : ?>
-                                <span><?php echo esc_html($source_name); ?></span>
-                            <?php endif; ?>
-                            <?php if ($character !== '') : ?>
-                                <span><?php echo esc_html($character); ?></span>
-                            <?php endif; ?>
-                            <?php if ($arc !== '') : ?>
-                                <span><?php echo esc_html($arc); ?></span>
-                            <?php endif; ?>
-                        </div>
                     <?php endif; ?>
                 </article>
             <?php endforeach; ?>
@@ -133,12 +145,13 @@ final class EU_Notes_Feed {
             . '.eu-notes-feed{display:grid;gap:1.25rem}'
             . '.eu-notes-feed__item{padding:1rem 0;border-top:1px solid rgba(127,127,127,.2)}'
             . '.eu-notes-feed__item:first-child{border-top:0;padding-top:0}'
-            . '.eu-notes-feed__date{display:inline-block;margin-bottom:.4rem;font-size:.9em;opacity:.75}'
+            . '.eu-notes-feed__date{display:block;margin-bottom:.4rem;font-size:.9em;opacity:.75}'
+            . '.eu-notes-feed__meta{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:.6rem;font-size:.8em}'
+            . '.eu-notes-feed__pill{display:inline-block;padding:.15rem .55rem;border:1px solid rgba(127,127,127,.28);border-radius:999px;color:inherit;text-decoration:none;line-height:1.5;opacity:.85;transition:opacity .15s ease,background-color .15s ease,border-color .15s ease}'
+            . 'a.eu-notes-feed__pill:hover,a.eu-notes-feed__pill:focus{opacity:1;background-color:rgba(127,127,127,.08);border-color:rgba(127,127,127,.5);text-decoration:none}'
             . '.eu-notes-feed__title{margin:0 0 .45rem;font-size:1.1em}'
             . '.eu-notes-feed__title a{text-decoration:none}'
             . '.eu-notes-feed__content{margin:0}'
-            . '.eu-notes-feed__meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.75rem;font-size:.85em;opacity:.8}'
-            . '.eu-notes-feed__meta span{padding:.15rem .5rem;border:1px solid rgba(127,127,127,.24);border-radius:999px}'
             . '</style>';
     }
 
