@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-26T14:15:16.607Z",
+  "generated_at": "2026-04-26T15:17:21.882Z",
   "source_count": 4,
-  "item_count": 7,
-  "note_count": 6,
+  "item_count": 5,
+  "note_count": 4,
   "post_count": 1,
   "error_count": 0,
   "sources": [
@@ -51,7 +51,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
+      "fetched_at": "2026-04-26T15:17:21.882Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -71,7 +71,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
+      "fetched_at": "2026-04-26T15:17:21.882Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -91,7 +91,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
+      "fetched_at": "2026-04-26T15:17:21.882Z"
     },
     {
       "id": "catherine-has-clients-3c0d244ec5531a91",
@@ -111,7 +111,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
+      "fetched_at": "2026-04-26T15:17:21.882Z"
     },
     {
       "id": "catherine-has-clients-8fe4c20f7596fed5",
@@ -129,47 +129,7 @@
       "tags": [],
       "url": "https://catherinehasclients.substack.com/p/coming-monday",
       "guid": "https://catherinehasclients.substack.com/p/coming-monday",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
-    },
-    {
-      "id": "evolution-unfiltered-04296e3fd29a6ba7",
-      "source_id": "evolution-unfiltered",
-      "source_name": "Evolution Unfiltered",
-      "source_handle": "evolutionunfiltered",
-      "source_publication": "evolutionunfiltered",
-      "title": "Accurate.",
-      "content": "Accurate.\n\nAlso, I never signed anything. \n\nSee you Wednesday.\n\n– Evi",
-      "content_html": "<p>Accurate.\n\nAlso, I never signed anything. \n\nSee you Wednesday.\n\n– Evi</p>",
-      "date": "2025-12-22T18:36:10.489Z",
-      "type": "note",
-      "arc": null,
-      "character": "Evi",
-      "tags": [
-        "note"
-      ],
-      "url": "https://substack.com/@evolutionunfiltered/note/c-190641209",
-      "guid": "https://substack.com/@evolutionunfiltered/note/c-190641209",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
-    },
-    {
-      "id": "evolution-unfiltered-33343b48c9ff71f9",
-      "source_id": "evolution-unfiltered",
-      "source_name": "Evolution Unfiltered",
-      "source_handle": "evolutionunfiltered",
-      "source_publication": "evolutionunfiltered",
-      "title": "It’s about time.",
-      "content": "It’s about time.\n\nFinally.\n\nI have waited 150 years since Darwin for someone to stop calling me \"random,\" stop confusing \"fitness\" with gym memberships, and stop acting like I gently gardened life into existence.\n\nI did not.\n\nI weaponized oxygen. I invented sex. I survived five mass extinctions. I am currently stress-testing intelligence, climate, and whatever humans are calling their latest existential crisis.\n\nAnd yet somehow, I was made boring.\n\nNo more.\n\nI've finally found someone who might… might…. be capable of handling my story. Catherine \"Regi\" Keenan from Emergence PR. She seemed a bit startled when I explained who I was, but that's to be expected. Most humans are.\n\nThe podcast is live. Episode 1: The First Call, where you get to witness our first conversation. \n\nFair warning — she led with thumbs. Thumbs. We're working on it.\n\nThis is not a lecture. It's a reputation repair.\n\nYou may call me Evi. Only my ex-protists use my full name.\n\nWelcome to the real story.\n\nIt adapts.\n\n— Evi (Yes. That Evolution.)",
-      "content_html": "<p>It’s about time.\n\nFinally.\n\nI have waited 150 years since Darwin for someone to stop calling me &quot;random,&quot; stop confusing &quot;fitness&quot; with gym memberships, and stop acting like I gently gardened life into existence.\n\nI did not.\n\nI weaponized oxygen. I invented sex. I survived five mass extinctions. I am currently stress-testing intelligence, climate, and whatever humans are calling their latest existential crisis.\n\nAnd yet somehow, I was made boring.\n\nNo more.\n\nI&#39;ve finally found someone who might… might…. be capable of handling my story. Catherine &quot;Regi&quot; Keenan from Emergence PR. She seemed a bit startled when I explained who I was, but that&#39;s to be expected. Most humans are.\n\nThe podcast is live. Episode 1: The First Call, where you get to witness our first conversation. \n\nFair warning — she led with thumbs. Thumbs. We&#39;re working on it.\n\nThis is not a lecture. It&#39;s a reputation repair.\n\nYou may call me Evi. Only my ex-protists use my full name.\n\nWelcome to the real story.\n\nIt adapts.\n\n— Evi (Yes. That Evolution.)</p>",
-      "date": "2025-12-17T18:44:10.948Z",
-      "type": "note",
-      "arc": null,
-      "character": "Evi",
-      "tags": [
-        "note"
-      ],
-      "url": "https://substack.com/@evolutionunfiltered/note/c-188884120",
-      "guid": "https://substack.com/@evolutionunfiltered/note/c-188884120",
-      "fetched_at": "2026-04-26T14:15:16.607Z"
+      "fetched_at": "2026-04-26T15:17:21.882Z"
     }
   ]
 }
