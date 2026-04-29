@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-28T17:59:09.687Z",
+  "generated_at": "2026-04-29T09:33:39.687Z",
   "source_count": 4,
-  "item_count": 7,
-  "note_count": 5,
+  "item_count": 8,
+  "note_count": 6,
   "post_count": 2,
   "error_count": 0,
   "sources": [
@@ -14,7 +14,7 @@
     },
     {
       "source_id": "emergence-pr",
-      "notes": 0,
+      "notes": 1,
       "posts": 0,
       "skipped": 0
     },
@@ -34,6 +34,26 @@
   "errors": [],
   "items": [
     {
+      "id": "emergence-pr-b1b2250b8b720e83",
+      "source_id": "emergence-pr",
+      "source_name": "Emergence PR",
+      "source_handle": "emergencepr",
+      "source_publication": "emergencepr",
+      "title": "Emergence PR is pleased to announce representation of a new client effective immediately.",
+      "content": "Emergence PR is pleased to announce representation of a new client effective immediately.\n\nPer client request, her name, biographical & temporal details will be released on a rolling basis.\n\nA full account of the initial consultation can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything\n\nWe remain adaptive for all client needs.",
+      "content_html": "<p>Emergence PR is pleased to announce representation of a new client effective immediately.\n\nPer client request, her name, biographical &amp; temporal details will be released on a rolling basis.\n\nA full account of the initial consultation can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything\n\nWe remain adaptive for all client needs.</p>",
+      "date": "2026-04-29T08:00:03.552Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@emergencepr/note/c-248140895",
+      "guid": "https://substack.com/@emergencepr/note/c-248140895",
+      "fetched_at": "2026-04-29T09:33:39.687Z"
+    },
+    {
       "id": "catherine-has-clients-f74a1b9d75521491",
       "source_id": "catherine-has-clients",
       "source_name": "Catherine Has Clients",
@@ -51,7 +71,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "evolution-unfiltered-49b7f45f9b750225",
@@ -69,7 +89,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
       "guid": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "evolution-unfiltered-15a6a3af1c785823",
@@ -89,7 +109,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -109,7 +129,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -129,7 +149,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "catherine-has-clients-3c0d244ec5531a91",
@@ -149,7 +169,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     },
     {
       "id": "catherine-has-clients-8fe4c20f7596fed5",
@@ -167,7 +187,7 @@
       "tags": [],
       "url": "https://catherinehasclients.substack.com/p/coming-monday",
       "guid": "https://catherinehasclients.substack.com/p/coming-monday",
-      "fetched_at": "2026-04-28T17:59:09.687Z"
+      "fetched_at": "2026-04-29T09:33:39.687Z"
     }
   ]
 }
