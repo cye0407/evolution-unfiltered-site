@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-03T16:00:14.617Z",
+  "generated_at": "2026-05-04T07:05:05.403Z",
   "source_count": 4,
-  "item_count": 8,
+  "item_count": 9,
   "note_count": 6,
-  "post_count": 2,
+  "post_count": 3,
   "error_count": 0,
   "sources": [
     {
       "source_id": "evolution-unfiltered",
       "notes": 5,
-      "posts": 1,
+      "posts": 2,
       "skipped": 0
     },
     {
@@ -34,6 +34,24 @@
   "errors": [],
   "items": [
     {
+      "id": "evolution-unfiltered-9c65524ab782de9c",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "Brand Identity Crisis",
+      "content": "CATHERINE: So I’ve been thinking about your brand identity— EVI: Mmmm. Keenan, I thought we were beyond this. I am the brand, darling. Absolutely everything alive is literally my work. You’re wearing my merchandise right now and your strange media tactics are cheapening me. CATHERINE: Right, but we need consistency in how you present yourself to different audiences— EVI: Consistency? I’ve been consistently creating life for four billion years. Ask any fossil, they’ll vouch for me. My reputation is rock solid. CATHERINE: I mean your messaging tone. Like, are you nurturing mother nature, or dramatic cosmic force, or— EVI: Why can’t I be both? Ask a butterfly about my tone — all gentle metamorphosis and delicate wings. Then ask a shark. Very different approaches for very different audiences, sweetie. Don’t be basic. CATHERINE: Right, but from a branding perspective, we need one coherent voice— EVI: One voice? Catherine, I speak fluent DNA. I whisper in chemical gradients. I shout through natural disasters. I’m multilingual across every species. And you want me to pick one voice? CATHERINE: For the podcast, yes. People need to know what to expect from you. EVI: What to expect? Darling, I’m the master of the unexpected. Predictability is extinction. The moment I become “consistent,” I become boring. And we’ve already established — boring is what got me into this PR mess in the first place. CATHERINE: (muttering) Right. I’ll just tell the audience to expect natural disasters. EVI: My goodness, Catherine. Don’t be dull. Natural disasters are just one of my dialects. CATHERINE: (sighs) Okay. How about we say you’re... creatively chaotic. EVI: (pause) Hmm. Say that again. CATHERINE: Creatively chaotic. EVI: (slowly) Creatively. Chaotic. (beat) Well, well, well. There she is. The Regi Marv promised me. Though I prefer “authentically unpredictable.” Much better ring to it, don’t you think? CATHERINE: (writing notes) Authentically... unpredictable... got it. (End scene) Join the creatively chaotic",
+      "content_html": "<p>CATHERINE: So I&#8217;ve been thinking about your brand identity&#8212;</p><p>EVI: <em>Mmmm.</em> Keenan, I thought we were beyond this. I <em>am</em> the brand, darling. Absolutely everything alive is literally my work. You&#8217;re wearing my merchandise right now and your strange media tactics are cheapening me.</p><p>CATHERINE: Right, but we need consistency in how you present yourself to different audiences&#8212;</p><p>EVI: Consistency? I&#8217;ve been consistently creating life for four billion years. Ask any fossil, they&#8217;ll vouch for me. My reputation is rock solid.</p><p>CATHERINE: I mean your messaging tone. Like, are you nurturing mother nature, or dramatic cosmic force, or&#8212;</p><p>EVI: Why can&#8217;t I be both? Ask a butterfly about my tone &#8212; all gentle metamorphosis and delicate wings. Then ask a shark. Very different approaches for very different audiences, sweetie. Don&#8217;t be basic.</p><p>CATHERINE: Right, but from a branding perspective, we need one coherent voice&#8212;</p><p>EVI: One voice? Catherine, I speak fluent DNA. I whisper in chemical gradients. I shout through natural disasters. I&#8217;m multilingual across every species. And you want me to pick <em>one</em> voice?</p><p>CATHERINE: For the podcast, yes. People need to know what to expect from you.</p><p>EVI: What to expect? Darling, I&#8217;m the master of the unexpected. Predictability is extinction. The moment I become &#8220;consistent,&#8221; I become boring. And we&#8217;ve already established &#8212; boring is what got me into this PR mess in the first place.</p><p>CATHERINE: <em>(muttering)</em> Right. I&#8217;ll just tell the audience to expect natural disasters.</p><p>EVI: My goodness, Catherine. Don&#8217;t be dull. Natural disasters are just one of my dialects.</p><p>CATHERINE: <em>(sighs)</em> Okay. How about we say you&#8217;re... creatively chaotic.</p><p>EVI: <em>(pause)</em> Hmm. Say that again.</p><p>CATHERINE: Creatively chaotic.</p><p>EVI: <em>(slowly)</em> Creatively. Chaotic. <em>(beat)</em> Well, well, well. There she is. The Regi Marv promised me. Though I prefer &#8220;authentically unpredictable.&#8221; Much better ring to it, don&#8217;t you think?</p><p>CATHERINE: <em>(writing notes)</em> Authentically... unpredictable... got it.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Join the creatively chaotic</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-05-04T07:01:30.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
+      "guid": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
+      "fetched_at": "2026-05-04T07:05:05.403Z"
+    },
+    {
       "id": "emergence-pr-b1b2250b8b720e83",
       "source_id": "emergence-pr",
       "source_name": "Emergence PR",
@@ -51,7 +69,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248140895",
       "guid": "https://substack.com/@emergencepr/note/c-248140895",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "catherine-has-clients-f74a1b9d75521491",
@@ -71,7 +89,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "evolution-unfiltered-49b7f45f9b750225",
@@ -89,7 +107,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
       "guid": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "evolution-unfiltered-15a6a3af1c785823",
@@ -109,7 +127,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -129,7 +147,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -149,7 +167,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "catherine-has-clients-3c0d244ec5531a91",
@@ -169,7 +187,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     },
     {
       "id": "catherine-has-clients-8fe4c20f7596fed5",
@@ -187,7 +205,7 @@
       "tags": [],
       "url": "https://catherinehasclients.substack.com/p/coming-monday",
       "guid": "https://catherinehasclients.substack.com/p/coming-monday",
-      "fetched_at": "2026-05-03T16:00:14.617Z"
+      "fetched_at": "2026-05-04T07:05:05.403Z"
     }
   ]
 }
