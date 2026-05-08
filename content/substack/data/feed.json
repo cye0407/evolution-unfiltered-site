@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-07T10:00:03.298Z",
+  "generated_at": "2026-05-08T05:31:15.759Z",
   "source_count": 4,
-  "item_count": 11,
-  "note_count": 8,
+  "item_count": 12,
+  "note_count": 9,
   "post_count": 3,
   "error_count": 0,
   "sources": [
     {
       "source_id": "evolution-unfiltered",
-      "notes": 3,
+      "notes": 4,
       "posts": 2,
       "skipped": 0
     },
@@ -34,6 +34,26 @@
   "errors": [],
   "items": [
     {
+      "id": "evolution-unfiltered-c9ca2513685fe0c0",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "Emergence PR is calling our brand voice workshop \"a productive outcome for a fruitful r...",
+      "content": "Emergence PR is calling our brand voice workshop \"a productive outcome for a fruitful relationship.\"\n\nCatherine called it \"the worst hour of her professional life.\"\n\nBoth may be correct.\n\n— Evi",
+      "content_html": "<p>Emergence PR is calling our brand voice workshop &quot;a productive outcome for a fruitful relationship.&quot;\n\nCatherine called it &quot;the worst hour of her professional life.&quot;\n\nBoth may be correct.\n\n— Evi</p>",
+      "date": "2026-05-07T19:07:47.430Z",
+      "type": "note",
+      "arc": null,
+      "character": "Evi",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@evolutionunfiltered/note/c-255335654",
+      "guid": "https://substack.com/@evolutionunfiltered/note/c-255335654",
+      "fetched_at": "2026-05-08T05:31:15.759Z"
+    },
+    {
       "id": "emergence-pr-7762e882d62f8b9f",
       "source_id": "emergence-pr",
       "source_name": "Emergence PR",
@@ -51,7 +71,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248147365",
       "guid": "https://substack.com/@emergencepr/note/c-248147365",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "catherine-has-clients-63b7b6875a3c3852",
@@ -71,7 +91,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "evolution-unfiltered-9c65524ab782de9c",
@@ -89,7 +109,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
       "guid": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "emergence-pr-b1b2250b8b720e83",
@@ -109,7 +129,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248140895",
       "guid": "https://substack.com/@emergencepr/note/c-248140895",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "catherine-has-clients-f74a1b9d75521491",
@@ -129,7 +149,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "evolution-unfiltered-49b7f45f9b750225",
@@ -147,7 +167,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
       "guid": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "evolution-unfiltered-15a6a3af1c785823",
@@ -167,7 +187,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -187,7 +207,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -207,7 +227,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "catherine-has-clients-3c0d244ec5531a91",
@@ -227,7 +247,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     },
     {
       "id": "catherine-has-clients-8fe4c20f7596fed5",
@@ -245,7 +265,7 @@
       "tags": [],
       "url": "https://catherinehasclients.substack.com/p/coming-monday",
       "guid": "https://catherinehasclients.substack.com/p/coming-monday",
-      "fetched_at": "2026-05-07T10:00:03.298Z"
+      "fetched_at": "2026-05-08T05:31:15.759Z"
     }
   ]
 }
