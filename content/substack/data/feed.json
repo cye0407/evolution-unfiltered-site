@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-17T22:00:02.918Z",
+  "generated_at": "2026-05-18T13:00:24.888Z",
   "source_count": 4,
-  "item_count": 15,
-  "note_count": 11,
-  "post_count": 4,
+  "item_count": 17,
+  "note_count": 12,
+  "post_count": 5,
   "error_count": 0,
   "sources": [
     {
       "source_id": "evolution-unfiltered",
       "notes": 4,
-      "posts": 3,
+      "posts": 4,
       "skipped": 0
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "source_id": "catherine-has-clients",
-      "notes": 4,
+      "notes": 5,
       "posts": 1,
       "skipped": 0
     },
@@ -33,6 +33,44 @@
   ],
   "errors": [],
   "items": [
+    {
+      "id": "catherine-has-clients-a3c82d5df06cd433",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "First session with Dr. Vogel today.",
+      "content": "First session with Dr. Vogel today.\n\nI told her about my client. She nodded the way therapists nod when they think you're speaking in metaphor. Fine. I can barely believe it myself.\n\nBut then — and I can barely believe I'm saying this — today on the phone, my self-declared \"authentically unpredictable\" client had a moment. She told me about LUCA. And the way she said that name. I actually had to put my pen down. The moment demanded it.\n\nOf course, I wrote it down after. But right then and there, it didn't feel right.\n\nIt was a special moment. Judge for yourself.\n\nhttps://evolutionunfiltered.substack.com/p/luca",
+      "content_html": "<p>First session with Dr. Vogel today.\n\nI told her about my client. She nodded the way therapists nod when they think you&#39;re speaking in metaphor. Fine. I can barely believe it myself.\n\nBut then — and I can barely believe I&#39;m saying this — today on the phone, my self-declared &quot;authentically unpredictable&quot; client had a moment. She told me about LUCA. And the way she said that name. I actually had to put my pen down. The moment demanded it.\n\nOf course, I wrote it down after. But right then and there, it didn&#39;t feel right.\n\nIt was a special moment. Judge for yourself.\n\nhttps://evolutionunfiltered.substack.com/p/luca</p>",
+      "date": "2026-05-18T10:00:03.799Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248132368",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248132368",
+      "fetched_at": "2026-05-18T13:00:24.888Z"
+    },
+    {
+      "id": "evolution-unfiltered-c8c2dc0baad84e84",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "LUCA",
+      "content": "CATHERINE: Evi, we’ve been circling for weeks. Every PR campaign needs an origin story. If we don’t ground the audience, they’ll get lost. EVI: Rubbish. Origins are overrated. I prefer comebacks. CATHERINE: And yet every epic needs a beginning. Even yours. If you want them to follow you, they need to know where it all started. EVI: (long pause) You really won’t let this go, will you. CATHERINE: Not if I’m doing my job. EVI: (sighs) Fine. (pause) There was a moment. My little darling. LUCA. The Last Universal Common Ancestor. EVI: All my cells, all my chemistry, all my messy experiments... finally holding hands at once. My first real commitment. CATHERINE: (softening) Your first... family? EVI: (quickly, deflecting) Don’t get sentimental, Catherine. EVI: (a beat) But yes. LUCA was special. I felt... proud. A rare mood. Not often repeated. CATHERINE: (writing quickly) That’s it. That’s our debut. Episode one: LUCA. EVI: Hmph. It’s hardly scandalous. CATHERINE: It doesn’t need to be. It’s the foundation. Without LUCA, nothing else exists — not trilobites, not oxygen, not us. EVI: (quietly, almost fondly) My little LUCA. Always underestimated. CATHERINE: Then it’s settled. Episode one starts at the beginning. EVI: (regains diva tone) Fine. But make it dramatic. If this is my relaunch, darling, it best be unforgettable. CATHERINE: (smiles) With you, I don’t think we have to worry about that. (End scene) Meet LUCA",
+      "content_html": "<p>CATHERINE: Evi, we&#8217;ve been circling for weeks. Every PR campaign needs an origin story. If we don&#8217;t ground the audience, they&#8217;ll get lost.</p><p>EVI: Rubbish. Origins are overrated. I prefer comebacks.</p><p>CATHERINE: And yet every epic needs a beginning. Even yours. If you want them to follow you, they need to know where it all started.</p><p>EVI: <em>(long pause)</em> You really won&#8217;t let this go, will you.</p><p>CATHERINE: Not if I&#8217;m doing my job.</p><p>EVI: <em>(sighs)</em> Fine. <em>(pause)</em> There was a moment. My little darling. LUCA. The Last Universal Common Ancestor.</p><p>EVI: All my cells, all my chemistry, all my messy experiments... finally holding hands at once. My first real commitment.</p><p>CATHERINE: <em>(softening)</em> Your first... family?</p><p>EVI: <em>(quickly, deflecting)</em> Don&#8217;t get sentimental, Catherine.</p><p>EVI: <em>(a beat)</em> But yes. LUCA was special. I felt... <em>proud.</em> A rare mood. Not often repeated.</p><p>CATHERINE: <em>(writing quickly)</em> That&#8217;s it. That&#8217;s our debut. Episode one: LUCA.</p><p>EVI: Hmph. It&#8217;s hardly scandalous.</p><p>CATHERINE: It doesn&#8217;t need to be. It&#8217;s the foundation. Without LUCA, nothing else exists &#8212; not trilobites, not oxygen, not us.</p><p>EVI: <em>(quietly, almost fondly)</em> My little LUCA. Always underestimated.</p><p>CATHERINE: Then it&#8217;s settled. Episode one starts at the beginning.</p><p>EVI: <em>(regains diva tone)</em> Fine. But make it dramatic. If this is my relaunch, darling, it best be unforgettable.</p><p>CATHERINE: <em>(smiles)</em> With you, I don&#8217;t think we have to worry about that.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Meet LUCA</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-05-18T07:01:37.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/luca",
+      "guid": "https://evolutionunfiltered.substack.com/p/luca",
+      "fetched_at": "2026-05-18T13:00:24.888Z"
+    },
     {
       "id": "emergence-pr-43c5f2a7b7e4180e",
       "source_id": "emergence-pr",
@@ -51,7 +89,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248154942",
       "guid": "https://substack.com/@emergencepr/note/c-248154942",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "catherine-has-clients-469f58d7b3ed65e8",
@@ -71,7 +109,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248126824",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248126824",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-5d9dc01a37796dd5",
@@ -89,7 +127,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/the-margin-notes",
       "guid": "https://evolutionunfiltered.substack.com/p/the-margin-notes",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-c9ca2513685fe0c0",
@@ -109,7 +147,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-255335654",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-255335654",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "emergence-pr-7762e882d62f8b9f",
@@ -129,7 +167,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248147365",
       "guid": "https://substack.com/@emergencepr/note/c-248147365",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "catherine-has-clients-63b7b6875a3c3852",
@@ -149,7 +187,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-9c65524ab782de9c",
@@ -167,7 +205,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
       "guid": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "emergence-pr-b1b2250b8b720e83",
@@ -187,7 +225,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248140895",
       "guid": "https://substack.com/@emergencepr/note/c-248140895",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "catherine-has-clients-f74a1b9d75521491",
@@ -207,7 +245,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-49b7f45f9b750225",
@@ -225,7 +263,7 @@
       "tags": [],
       "url": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
       "guid": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-15a6a3af1c785823",
@@ -245,7 +283,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -265,7 +303,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -285,7 +323,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "catherine-has-clients-3c0d244ec5531a91",
@@ -305,7 +343,7 @@
       ],
       "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
       "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     },
     {
       "id": "catherine-has-clients-8fe4c20f7596fed5",
@@ -323,7 +361,7 @@
       "tags": [],
       "url": "https://catherinehasclients.substack.com/p/coming-monday",
       "guid": "https://catherinehasclients.substack.com/p/coming-monday",
-      "fetched_at": "2026-05-17T22:00:02.918Z"
+      "fetched_at": "2026-05-18T13:00:24.888Z"
     }
   ]
 }
