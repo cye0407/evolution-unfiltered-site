@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-18T10:28:37.586Z",
+  "generated_at": "2026-06-21T11:23:10.270Z",
   "source_count": 4,
-  "item_count": 4,
-  "note_count": 4,
-  "post_count": 0,
-  "error_count": 5,
+  "item_count": 18,
+  "note_count": 13,
+  "post_count": 5,
+  "error_count": 0,
   "sources": [
     {
       "source_id": "evolution-unfiltered",
+      "notes": 4,
+      "posts": 4,
+      "skipped": 0
+    },
+    {
+      "source_id": "emergence-pr",
       "notes": 4,
       "posts": 0,
       "skipped": 0
     },
     {
-      "source_id": "emergence-pr",
-      "notes": 0,
-      "posts": 0,
-      "skipped": 0
-    },
-    {
       "source_id": "catherine-has-clients",
-      "notes": 0,
-      "posts": 0,
+      "notes": 5,
+      "posts": 1,
       "skipped": 0
     },
     {
@@ -31,34 +31,124 @@
       "skipped": 1
     }
   ],
-  "errors": [
-    {
-      "source_id": "evolution-unfiltered",
-      "stage": "posts",
-      "message": "This operation was aborted"
-    },
-    {
-      "source_id": "emergence-pr",
-      "stage": "notes",
-      "message": "This operation was aborted"
-    },
-    {
-      "source_id": "catherine-has-clients",
-      "stage": "notes",
-      "message": "This operation was aborted"
-    },
-    {
-      "source_id": "catherine-has-clients",
-      "stage": "posts",
-      "message": "This operation was aborted"
-    },
-    {
-      "source_id": "cat-yeldi",
-      "stage": "posts",
-      "message": "This operation was aborted"
-    }
-  ],
+  "errors": [],
   "items": [
+    {
+      "id": "emergence-pr-18941d0bcdaff6f1",
+      "source_id": "emergence-pr",
+      "source_name": "Emergence PR",
+      "source_handle": "emergencepr",
+      "source_publication": "emergencepr",
+      "title": "It is with special pleasure that Emergence PR confirms Ms. Evi Vidal, Evolution herself...",
+      "content": "It is with special pleasure that Emergence PR confirms Ms. Evi Vidal, Evolution herself, has approved a foundational narrative arc for her forthcoming relaunch.\n\nThe subject of this narrative has been designated LUCA.\n\nThis development represents a significant milestone in Emergence PR's ongoing partnership with Ms. Vidal — a testament to the firm's attentive and highly specialized approach to the representation of discerning clients. Having carefully listened to the needs of one of history's most accomplished creators, Emergence PR is proud to have helped shape a narrative arc worthy of our client's storied legacy.\n\nThe full account can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/luca\n\nWe remain committed to excellence in legacy storytelling for all clients.",
+      "content_html": "<p>It is with special pleasure that Emergence PR confirms Ms. Evi Vidal, Evolution herself, has approved a foundational narrative arc for her forthcoming relaunch.\n\nThe subject of this narrative has been designated LUCA.\n\nThis development represents a significant milestone in Emergence PR&#39;s ongoing partnership with Ms. Vidal — a testament to the firm&#39;s attentive and highly specialized approach to the representation of discerning clients. Having carefully listened to the needs of one of history&#39;s most accomplished creators, Emergence PR is proud to have helped shape a narrative arc worthy of our client&#39;s storied legacy.\n\nThe full account can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/luca\n\nWe remain committed to excellence in legacy storytelling for all clients.</p>",
+      "date": "2026-05-20T08:00:01.758Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@emergencepr/note/c-248158546",
+      "guid": "https://substack.com/@emergencepr/note/c-248158546",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-a3c82d5df06cd433",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "First session with Dr. Vogel today.",
+      "content": "First session with Dr. Vogel today.\n\nI told her about my client. She nodded the way therapists nod when they think you're speaking in metaphor. Fine. I can barely believe it myself.\n\nBut then — and I can barely believe I'm saying this — today on the phone, my self-declared \"authentically unpredictable\" client had a moment. She told me about LUCA. And the way she said that name. I actually had to put my pen down. The moment demanded it.\n\nOf course, I wrote it down after. But right then and there, it didn't feel right.\n\nIt was a special moment. Judge for yourself.\n\nhttps://evolutionunfiltered.substack.com/p/luca",
+      "content_html": "<p>First session with Dr. Vogel today.\n\nI told her about my client. She nodded the way therapists nod when they think you&#39;re speaking in metaphor. Fine. I can barely believe it myself.\n\nBut then — and I can barely believe I&#39;m saying this — today on the phone, my self-declared &quot;authentically unpredictable&quot; client had a moment. She told me about LUCA. And the way she said that name. I actually had to put my pen down. The moment demanded it.\n\nOf course, I wrote it down after. But right then and there, it didn&#39;t feel right.\n\nIt was a special moment. Judge for yourself.\n\nhttps://evolutionunfiltered.substack.com/p/luca</p>",
+      "date": "2026-05-18T10:00:03.799Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248132368",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248132368",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "evolution-unfiltered-c8c2dc0baad84e84",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "LUCA",
+      "content": "CATHERINE: Evi, we’ve been circling for weeks. Every PR campaign needs an origin story. If we don’t ground the audience, they’ll get lost. EVI: Rubbish. Origins are overrated. I prefer comebacks. CATHERINE: And yet every epic needs a beginning. Even yours. If you want them to follow you, they need to know where it all started. EVI: (long pause) You really won’t let this go, will you. CATHERINE: Not if I’m doing my job. EVI: (sighs) Fine. (pause) There was a moment. My little darling. LUCA. The Last Universal Common Ancestor. EVI: All my cells, all my chemistry, all my messy experiments... finally holding hands at once. My first real commitment. CATHERINE: (softening) Your first... family? EVI: (quickly, deflecting) Don’t get sentimental, Catherine. EVI: (a beat) But yes. LUCA was special. I felt... proud. A rare mood. Not often repeated. CATHERINE: (writing quickly) That’s it. That’s our debut. Episode one: LUCA. EVI: Hmph. It’s hardly scandalous. CATHERINE: It doesn’t need to be. It’s the foundation. Without LUCA, nothing else exists — not trilobites, not oxygen, not us. EVI: (quietly, almost fondly) My little LUCA. Always underestimated. CATHERINE: Then it’s settled. Episode one starts at the beginning. EVI: (regains diva tone) Fine. But make it dramatic. If this is my relaunch, darling, it best be unforgettable. CATHERINE: (smiles) With you, I don’t think we have to worry about that. (End scene) Meet LUCA",
+      "content_html": "<p>CATHERINE: Evi, we&#8217;ve been circling for weeks. Every PR campaign needs an origin story. If we don&#8217;t ground the audience, they&#8217;ll get lost.</p><p>EVI: Rubbish. Origins are overrated. I prefer comebacks.</p><p>CATHERINE: And yet every epic needs a beginning. Even yours. If you want them to follow you, they need to know where it all started.</p><p>EVI: <em>(long pause)</em> You really won&#8217;t let this go, will you.</p><p>CATHERINE: Not if I&#8217;m doing my job.</p><p>EVI: <em>(sighs)</em> Fine. <em>(pause)</em> There was a moment. My little darling. LUCA. The Last Universal Common Ancestor.</p><p>EVI: All my cells, all my chemistry, all my messy experiments... finally holding hands at once. My first real commitment.</p><p>CATHERINE: <em>(softening)</em> Your first... family?</p><p>EVI: <em>(quickly, deflecting)</em> Don&#8217;t get sentimental, Catherine.</p><p>EVI: <em>(a beat)</em> But yes. LUCA was special. I felt... <em>proud.</em> A rare mood. Not often repeated.</p><p>CATHERINE: <em>(writing quickly)</em> That&#8217;s it. That&#8217;s our debut. Episode one: LUCA.</p><p>EVI: Hmph. It&#8217;s hardly scandalous.</p><p>CATHERINE: It doesn&#8217;t need to be. It&#8217;s the foundation. Without LUCA, nothing else exists &#8212; not trilobites, not oxygen, not us.</p><p>EVI: <em>(quietly, almost fondly)</em> My little LUCA. Always underestimated.</p><p>CATHERINE: Then it&#8217;s settled. Episode one starts at the beginning.</p><p>EVI: <em>(regains diva tone)</em> Fine. But make it dramatic. If this is my relaunch, darling, it best be unforgettable.</p><p>CATHERINE: <em>(smiles)</em> With you, I don&#8217;t think we have to worry about that.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Meet LUCA</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-05-18T07:01:37.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/luca",
+      "guid": "https://evolutionunfiltered.substack.com/p/luca",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "emergence-pr-43c5f2a7b7e4180e",
+      "source_id": "emergence-pr",
+      "source_name": "Emergence PR",
+      "source_handle": "emergencepr",
+      "source_publication": "emergencepr",
+      "title": "Emergence PR is committed to the highest standards of client service and documentation...",
+      "content": "Emergence PR is committed to the highest standards of client service and documentation practices.\n\nIn the instance of our valued client Ms. Evi Vidal, Evolution herself, this has included the option to decline editorial review of supporting documentation.\n\nNonetheless, we would like to issue special notice to Ms. Keenan, our publicist of record on the Vidal account, whose administrative diligence remains exemplary.\n\nA detailed record of client relations expertise can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-margin-notes\n\nWe remain committed to excellence in client communications.",
+      "content_html": "<p>Emergence PR is committed to the highest standards of client service and documentation practices.\n\nIn the instance of our valued client Ms. Evi Vidal, Evolution herself, this has included the option to decline editorial review of supporting documentation.\n\nNonetheless, we would like to issue special notice to Ms. Keenan, our publicist of record on the Vidal account, whose administrative diligence remains exemplary.\n\nA detailed record of client relations expertise can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-margin-notes\n\nWe remain committed to excellence in client communications.</p>",
+      "date": "2026-05-13T08:00:00.950Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@emergencepr/note/c-248154942",
+      "guid": "https://substack.com/@emergencepr/note/c-248154942",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-469f58d7b3ed65e8",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "Today the client went quiet. Like didn't-have-a-quippy-retort quiet. Mid-sentence.",
+      "content": "Today the client went quiet. Like didn't-have-a-quippy-retort quiet. Mid-sentence.\n\nI said something she didn't expect and she just... paused. I don't know what to do with that.\n\nAstro thinks I should be flattered. Marv thinks we should discuss it over steak. I think I should probably be talking to a professional about this.\n\nActually. I'm going to look one up. Tonight. That's decided.\n\nMarked it in my calendar. Time-stamped it. This one's for the archives.\n\nUntil I find a therapist...\n\nhttps://evolutionunfiltered.substack.com/p/the-margin-notes",
+      "content_html": "<p>Today the client went quiet. Like didn&#39;t-have-a-quippy-retort quiet. Mid-sentence.\n\nI said something she didn&#39;t expect and she just... paused. I don&#39;t know what to do with that.\n\nAstro thinks I should be flattered. Marv thinks we should discuss it over steak. I think I should probably be talking to a professional about this.\n\nActually. I&#39;m going to look one up. Tonight. That&#39;s decided.\n\nMarked it in my calendar. Time-stamped it. This one&#39;s for the archives.\n\nUntil I find a therapist...\n\nhttps://evolutionunfiltered.substack.com/p/the-margin-notes</p>",
+      "date": "2026-05-11T10:00:01.102Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248126824",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248126824",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "evolution-unfiltered-5d9dc01a37796dd5",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "The Margin Notes",
+      "content": "CATHERINE: (muttering as she types) Alright. Just... writing my little notes. EVI: Your little notes . As if I could ever be contained by a bullet point. HA! CATHERINE: They’re not for you. They’re for me. A way to keep track of the chaos. EVI: But darling, chaos is the brand. CATHERINE: (dry) Yes. Noted. EVI: (interrupting, affecting a dreamy voice) Oh, I can only imagine how you revel in my wonder. “Dear Diary, I am simply beside myself. To be entrusted with representing the one and only bringer of all life, then, now, and forever. I can barely think, my pen trembles in awe...” CATHERINE: (dry, not missing a beat) Or: “Day 4. Another session trying to keep a cosmic diva from hijacking her own PR strategy.” EVI: (pause) ...Hm. CATHERINE: (continuing, emboldened) And I suppose you could say it’s something like that. Except my notes end with citations. Because someone has to explain the brand to a human audience. EVI: Citations. How scholarly of you. CATHERINE: And although I’m just little ole Regi — or Catherine, or Ms. Keenan, depending on your ebb and flow — I’m the one scribbling in the margins, trying to keep Evolution herself from spinning out of control. EVI: (quieter, a touch impressed) Mm. CATHERINE: Here’s the truth: if anyone’s going to take this story seriously, they need more than your flair. They need context. They need notes. EVI: (recovering) Hmph. Well. Fine. Keep your notes, Ms. Keenan. Just don’t expect me to read them. CATHERINE: Wouldn’t dream of it. (beat) EVI: (grudgingly) ...Good work today, Regi. (End scene) Read the notes.",
+      "content_html": "<p>CATHERINE: <em>(muttering as she types)</em> Alright. Just... writing my little notes.  </p><p>EVI: Your <em>little notes</em>. As if I could ever be contained by a bullet point. HA!   </p><p>CATHERINE: They&#8217;re not for you. They&#8217;re for me. A way to keep track of the chaos.</p><p>EVI: But darling, chaos is the brand.</p><p>CATHERINE: <em>(dry)</em> Yes. Noted.</p><p>EVI: <em>(interrupting, affecting a dreamy voice)</em> Oh, I can only imagine how you revel in my wonder. &#8220;Dear Diary, I am simply beside myself. To be entrusted with representing the one and only bringer of all life, then, now, and forever. I can barely think, my pen trembles in awe...&#8221;</p><p>CATHERINE: <em>(dry, not missing a beat)</em> Or: &#8220;Day 4. Another session trying to keep a cosmic diva from hijacking her own PR strategy.&#8221;</p><p>EVI: <em>(pause)</em> ...Hm.</p><p>CATHERINE: <em>(continuing, emboldened)</em> And I suppose you could say it&#8217;s something like that. Except my notes end with citations. Because someone has to explain the brand to a human audience.</p><p>EVI: Citations. How <em>scholarly</em> of you.</p><p>CATHERINE: And although I&#8217;m just little ole Regi &#8212; or Catherine, or Ms. Keenan, depending on your ebb and flow &#8212; I&#8217;m the one scribbling in the margins, trying to keep Evolution herself from spinning out of control.</p><p>EVI: <em>(quieter, a touch impressed)</em> Mm.</p><p>CATHERINE: Here&#8217;s the truth: if anyone&#8217;s going to take this story seriously, they need more than your flair. They need context. They need notes.</p><p>EVI: <em>(recovering)</em> Hmph. Well. Fine. Keep your notes, Ms. Keenan. Just don&#8217;t expect me to read them.</p><p>CATHERINE: Wouldn&#8217;t dream of it.</p><p><em>(beat)</em></p><p>EVI: <em>(grudgingly)</em> ...Good work today, Regi.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Read the notes.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-05-11T07:01:46.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/the-margin-notes",
+      "guid": "https://evolutionunfiltered.substack.com/p/the-margin-notes",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
     {
       "id": "evolution-unfiltered-c9ca2513685fe0c0",
       "source_id": "evolution-unfiltered",
@@ -77,7 +167,123 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-255335654",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-255335654",
-      "fetched_at": "2026-06-18T10:28:37.586Z"
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "emergence-pr-7762e882d62f8b9f",
+      "source_id": "emergence-pr",
+      "source_name": "Emergence PR",
+      "source_handle": "emergencepr",
+      "source_publication": "emergencepr",
+      "title": "Emergence PR is pleased to note that a brand voice workshop has been conducted with our...",
+      "content": "Emergence PR is pleased to note that a brand voice workshop has been conducted with our newest client, Ms. Evi Vidal, Evolution herself.\n\nShe has approved the tonal descriptor \"authentically unpredictable\" for external use — a productive outcome for a fruitful relationship.\n\nFind more details at Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/brand-identity-crisis\n\nWe remain committed to all client brand-voice requirements.",
+      "content_html": "<p>Emergence PR is pleased to note that a brand voice workshop has been conducted with our newest client, Ms. Evi Vidal, Evolution herself.\n\nShe has approved the tonal descriptor &quot;authentically unpredictable&quot; for external use — a productive outcome for a fruitful relationship.\n\nFind more details at Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/brand-identity-crisis\n\nWe remain committed to all client brand-voice requirements.</p>",
+      "date": "2026-05-06T10:00:01.610Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@emergencepr/note/c-248147365",
+      "guid": "https://substack.com/@emergencepr/note/c-248147365",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-63b7b6875a3c3852",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "I have to ask myself, yet again, what I have gotten myself into after I told Astro abou...",
+      "content": "I have to ask myself, yet again, what I have gotten myself into after I told Astro about my newest client and she laughed for twenty minutes straight. Twenty. Minutes.\n\nShe asked if Evolution takes personal calls and if she could come to the next meeting. Then she asked what Evolution wears so she could dress accordingly.\n\nIs my journal laughing at me too?\n\nBut really — is Ms. Vidal that impossible?\n\nYou tell me. \n\nhttps://evolutionunfiltered.substack.com/p/brand-identity-crisis",
+      "content_html": "<p>I have to ask myself, yet again, what I have gotten myself into after I told Astro about my newest client and she laughed for twenty minutes straight. Twenty. Minutes.\n\nShe asked if Evolution takes personal calls and if she could come to the next meeting. Then she asked what Evolution wears so she could dress accordingly.\n\nIs my journal laughing at me too?\n\nBut really — is Ms. Vidal that impossible?\n\nYou tell me. \n\nhttps://evolutionunfiltered.substack.com/p/brand-identity-crisis</p>",
+      "date": "2026-05-04T10:00:01.368Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248124170",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "evolution-unfiltered-9c65524ab782de9c",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "Brand Identity Crisis",
+      "content": "CATHERINE: So I’ve been thinking about your brand identity… EVI: Mmmm. Keenan, I thought we were beyond this. I am the brand, darling. Absolutely everything alive is literally my work. You’re wearing my merchandise right now and your strange media tactics are cheapening me. CATHERINE: Right, but we need consistency in how you present yourself to different audiences— EVI: Consistency? I’ve been consistently creating life for four billion years. Ask any fossil, they’ll vouch for me. My reputation is rock solid. CATHERINE: I mean your messaging tone. Like, are you nurturing mother nature, or dramatic cosmic force, or— EVI: Why can’t I be both? Ask a butterfly about my tone — all gentle metamorphosis and delicate wings. Then ask a shark. Very different approaches for very different audiences, sweetie. Don’t be basic. CATHERINE: Right, but from a branding perspective, we need one coherent voice— EVI: One voice? Catherine, I speak fluent DNA. I whisper in chemical gradients. I shout through natural disasters. I’m multilingual across every species. And you want me to pick one voice? CATHERINE: For the podcast, yes. People need to know what to expect from you. EVI: What to expect? Darling, I’m the master of the unexpected. Predictability is extinction. The moment I become “consistent,” I become boring. And we’ve already established — boring is what got me into this PR mess in the first place. CATHERINE: (muttering) Right. I’ll just tell the audience to expect natural disasters. EVI: My goodness, Catherine. Don’t be dull. Natural disasters are just one of my dialects. CATHERINE: (sighs) Okay. How about we say you’re... creatively chaotic. EVI: (pause) Hmm. Say that again. CATHERINE: Creatively chaotic. EVI: (slowly) Creatively. Chaotic. (beat) Well, well, well. There she is. The Regi Marv promised me. Though I prefer “authentically unpredictable.” Much better ring to it, don’t you think? CATHERINE: (writing notes) Authentically... unpredictable... got it. (End scene) Join the creatively chaotic",
+      "content_html": "<p>CATHERINE: So I&#8217;ve been thinking about your brand identity&#8230;</p><p>EVI: <em>Mmmm.</em> Keenan, I thought we were beyond this. I <em>am</em> the brand, darling. Absolutely everything alive is literally my work. You&#8217;re wearing my merchandise right now and your strange media tactics are cheapening me.</p><p>CATHERINE: Right, but we need consistency in how you present yourself to different audiences&#8212;</p><p>EVI: Consistency? I&#8217;ve been consistently creating life for four billion years. Ask any fossil, they&#8217;ll vouch for me. My reputation is rock solid.</p><p>CATHERINE: I mean your messaging tone. Like, are you nurturing mother nature, or dramatic cosmic force, or&#8212;</p><p>EVI: Why can&#8217;t I be both? Ask a butterfly about my tone &#8212; all gentle metamorphosis and delicate wings. Then ask a shark. Very different approaches for very different audiences, sweetie. Don&#8217;t be basic.</p><p>CATHERINE: Right, but from a branding perspective, we need one coherent voice&#8212;</p><p>EVI: One voice? Catherine, I speak fluent DNA. I whisper in chemical gradients. I shout through natural disasters. I&#8217;m multilingual across every species. And you want me to pick <em>one</em> voice?</p><p>CATHERINE: For the podcast, yes. People need to know what to expect from you.</p><p>EVI: What to expect? Darling, I&#8217;m the master of the unexpected. Predictability is extinction. The moment I become &#8220;consistent,&#8221; I become boring. And we&#8217;ve already established &#8212; boring is what got me into this PR mess in the first place.</p><p>CATHERINE: <em>(muttering)</em> Right. I&#8217;ll just tell the audience to expect natural disasters.</p><p>EVI: My goodness, Catherine. Don&#8217;t be dull. Natural disasters are just one of my dialects.</p><p>CATHERINE: <em>(sighs)</em> Okay. How about we say you&#8217;re... creatively chaotic.</p><p>EVI: <em>(pause)</em> Hmm. Say that again.</p><p>CATHERINE: Creatively chaotic.</p><p>EVI: <em>(slowly)</em> Creatively. Chaotic. <em>(beat)</em> Well, well, well. There she is. The Regi Marv promised me. Though I prefer &#8220;authentically unpredictable.&#8221; Much better ring to it, don&#8217;t you think?</p><p>CATHERINE: <em>(writing notes)</em> Authentically... unpredictable... got it.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Join the creatively chaotic</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-05-04T07:01:30.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
+      "guid": "https://evolutionunfiltered.substack.com/p/brand-identity-crisis",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "emergence-pr-b1b2250b8b720e83",
+      "source_id": "emergence-pr",
+      "source_name": "Emergence PR",
+      "source_handle": "emergencepr",
+      "source_publication": "emergencepr",
+      "title": "Emergence PR is pleased to announce representation of a new client effective immediately.",
+      "content": "Emergence PR is pleased to announce representation of a new client effective immediately.\n\nPer client request, her name, biographical & temporal details will be released on a rolling basis.\n\nA full account of the initial consultation can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything\n\nWe remain adaptive for all client needs.",
+      "content_html": "<p>Emergence PR is pleased to announce representation of a new client effective immediately.\n\nPer client request, her name, biographical &amp; temporal details will be released on a rolling basis.\n\nA full account of the initial consultation can be found via Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything\n\nWe remain adaptive for all client needs.</p>",
+      "date": "2026-04-29T08:00:03.552Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@emergencepr/note/c-248140895",
+      "guid": "https://substack.com/@emergencepr/note/c-248140895",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-f74a1b9d75521491",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "OMG. Dennis assigned me a new account today and I cannot even begin.",
+      "content": "OMG. Dennis assigned me a new account today and I cannot even begin.\n\nThe file says \"Occupation: Evolution.\" Like the actual thing. I assumed it was a prank. It was not a prank.\n\nCame home, told Marv the whole story. Marv was unimpressed. Marv suggested we go for a walk to unwind. This is why I love Marv.\n\nBut still, I did the intake. But, I didn’t save the file yet.\n\nFind out how just how strange the intake was on week's episode of Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
+      "content_html": "<p>OMG. Dennis assigned me a new account today and I cannot even begin.\n\nThe file says &quot;Occupation: Evolution.&quot; Like the actual thing. I assumed it was a prank. It was not a prank.\n\nCame home, told Marv the whole story. Marv was unimpressed. Marv suggested we go for a walk to unwind. This is why I love Marv.\n\nBut still, I did the intake. But, I didn’t save the file yet.\n\nFind out how just how strange the intake was on week&#39;s episode of Evolution Unfiltered.\n\nhttps://evolutionunfiltered.substack.com/p/the-call-that-started-everything</p>",
+      "date": "2026-04-27T10:00:01.372Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248121460",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "evolution-unfiltered-49b7f45f9b750225",
+      "source_id": "evolution-unfiltered",
+      "source_name": "Evolution Unfiltered",
+      "source_handle": "evolutionunfiltered",
+      "source_publication": "evolutionunfiltered",
+      "title": "The Call That Started Everything",
+      "content": "DENNIS: Catherine, we have a new client. She has a very prestigious reputation. We need to handle this very carefully. CATHERINE: Alright. Always looking for a new challenge. DENNIS: Here’s the file. Have a quick look through and then get on the phone. She’s expecting your call. CATHERINE: Alright, will do. DENNIS: Good luck. CATHERINE: Thanks. (Sound of papers rustling) CATHERINE: (reading) So… Client name: Evi Vidal. Occupation: Evolution... (pause) What the — Current PR disasters: Darwin incident, textbook crisis... (more rustling) Billing address: Planet Earth?? Unhappy with museum misrepresentation. Is this some sort of joke? You know what, I’ll just call. This has to be Dennis messing with me. (Sound of phone dialing) EVI: Hellllllllo. CATHERINE: Hello. This is Catherine Keenan with Emergence PR. EVI: Ohhhhh, finally . Do you have any idea how long I’ve been on hold with your species? CATHERINE: (beat) ...My species? As I said, this is Catherine Keenan with Emergence PR. I’ve been assigned to your account, Ms. Vidal. I understand you’re unhappy with your current PR situation. Would you like to tell me about that? EVI: Ah yes. Catherine Keenan. Your organization assures me you are the absolute best — and you had better be, darling, because my well-meaning but overly Victorian predecessor has not done me justice. Have you seen how they represent me in those dusty textbooks? It is an absolute disgrace. You must agree. CATHERINE: Of course. I just want to make sure I understand the gravity of the situation. When you say Evolution herself... could you explain exactly what you mean by that? Because, to be honest, some people don’t believe you exist at all. EVI: Hmmm. Don’t believe I exist? Oh, that’s rich. They don’t believe in me , but they believe in unicorns, vampires, and flat-Earth theories? Darling, I’m literally happening inside their bodies right now. Their immune systems are evolving as we speak. Please do not act like you haven’t heard of me. Creator of all life on Earth, orchestrator of four billion years of the most dramatic story ever told. CATHERINE: Ah yes, of course. I’m certainly familiar with your work. Big fan of... (pause) opposable thumbs? EVI: (snorts) Thumbs? That was a Tuesday. I invented sex. I crashed the oxygen market. I weaponized algae. And you lead with thumbs ? Darling, thumbs are filler content. I hope you have more to offer than this. CATHERINE: (nervous laugh) Right, of course. My apologies. I just wanted to hear it from the force herself. EVI: (softening slightly) Of course you did. And by the way, you may call me Evi. Only my ex-protists call me Ms. Vidal. CATHERINE: Noted. EVI: Well. I suppose we can work with this. You can’t possibly be worse than your predecessor. But I am sick of the way I am represented in the media. That “survival of the fittest” nonsense? First of all, it wasn’t even my line. Some Victorian philosopher thought it sounded catchy, and it stuck to me like bad perfume. CATHERINE: And what does it mean, if not that? EVI: It means fit for the environment , darling. Not the strongest, not the loudest, not whoever’s waving their antlers around. If brute force were the secret, dinosaurs would still be headlining. The real masters are the quiet ones: jellyfish, cockroaches, microbes. The adaptable ones. The ones who know when to fight, when to flirt, and when to play dead. CATHERINE: So adaptability, not aggression. EVI: Exactly. Sometimes strength wins. Sometimes subtlety. Sometimes the trick is simply being small enough to hide under a rock until the asteroid dust settles. That’s survival of the fittest. Far more interesting than the chest-beating version humans keep selling. CATHERINE: (clears throat) I see. Well, I do specialize in rebuilding reputations for... (pause) complex clients with unique positioning challenges. EVI: Unique positioning? Sweetie, I positioned mitochondria inside their hosts . That’s commitment. I have survived five mass extinctions, created at least 8.7 million species, and I’m currently managing climate change, AI development, and whatever humans are calling their latest existential crisis. And somehow my previous team made me sound boring . Can you believe that? Me. Boring. The audacity. CATHERINE: That does seem like a significant messaging problem. EVI: Exactly. So here’s what I want. No more polite museum tours. No more dusty diagrams. No more Latin names everyone forgets by Tuesday afternoon. I want to tell my real story — the one with chemical warfare, mass poisonings that accidentally created complex life, billion-year vendettas, and plot twists that would make Netflix jealous. CATHERINE: (taking notes) Okay... chemical warfare... billion-year vendettas... got it. EVI: Because here’s what those textbooks never told you, sweetie: I’m not finished. I’m just getting started. CATHERINE: Well, this is certainly... ambitious. When would you like to start? EVI: Immediately. I’ve been waiting 150 years since Darwin for someone to get this right. Don’t make me wait any longer. CATHERINE: (deep breath) Alright then. Let’s make some magic happen. EVI: Oh no, darling. I don’t do magic. I do adaptation. (End scene) Don’t wait another minute",
+      "content_html": "<p>DENNIS: Catherine, we have a new client. She has a very prestigious reputation. We need to handle this very carefully.</p><p>CATHERINE: Alright. Always looking for a new challenge.</p><p>DENNIS: Here&#8217;s the file. Have a quick look through and then get on the phone. She&#8217;s expecting your call.</p><p>CATHERINE: Alright, will do.</p><p>DENNIS: Good luck.</p><p>CATHERINE: Thanks.</p><p><em>(Sound of papers rustling)</em></p><p>CATHERINE: <em>(reading)</em> So&#8230; Client name: Evi Vidal. Occupation: Evolution... <em>(pause)</em> What the &#8212; Current PR disasters: Darwin incident, textbook crisis... <em>(more rustling)</em> Billing address: Planet Earth?? Unhappy with museum misrepresentation. Is this some sort of joke? You know what, I&#8217;ll just call. This has to be Dennis messing with me.</p><p><em>(Sound of phone dialing)</em></p><p>EVI: Hellllllllo.</p><p>CATHERINE: Hello. This is Catherine Keenan with Emergence PR.</p><p>EVI: Ohhhhh, <em>finally</em>. Do you have any idea how long I&#8217;ve been on hold with your species?</p><p>CATHERINE: <em>(beat)</em> ...My species? As I said, this is Catherine Keenan with Emergence PR. I&#8217;ve been assigned to your account, Ms. Vidal. I understand you&#8217;re unhappy with your current PR situation. Would you like to tell me about that?</p><p>EVI: Ah yes. Catherine Keenan. Your organization assures me you are the <em>absolute</em> best &#8212; and you had better be, darling, because my well-meaning but overly Victorian predecessor has not done me justice. Have you <em>seen</em> how they represent me in those dusty textbooks? It is an absolute disgrace. You must agree.</p><p>CATHERINE: Of course. I just want to make sure I understand the gravity of the situation. When you say Evolution herself... could you explain exactly what you mean by that? Because, to be honest, some people don&#8217;t believe you exist at all.</p><p>EVI: <em>Hmmm.</em> Don&#8217;t believe I exist? Oh, that&#8217;s rich. They don&#8217;t believe in <em>me</em>, but they believe in unicorns, vampires, and flat-Earth theories? Darling, I&#8217;m literally happening inside their bodies right now. Their immune systems are evolving as we speak. Please do not act like you haven&#8217;t heard of me. Creator of all life on Earth, orchestrator of four billion years of the most dramatic story ever told.</p><p>CATHERINE: Ah yes, of course. I&#8217;m certainly familiar with your work. Big fan of... <em>(pause)</em> opposable thumbs?</p><p>EVI: <em>(snorts)</em> Thumbs? That was a Tuesday. I invented sex. I crashed the oxygen market. I weaponized algae. And you lead with <em>thumbs</em>? Darling, thumbs are filler content. I hope you have more to offer than this.</p><p>CATHERINE: <em>(nervous laugh)</em> Right, of course. My apologies. I just wanted to hear it from the force herself.</p><p>EVI: <em>(softening slightly)</em> Of course you did. And by the way, you may call me Evi. Only my ex-protists call me Ms. Vidal.</p><p>CATHERINE: Noted.</p><p>EVI: Well. I suppose we can work with this. You can&#8217;t possibly be worse than your predecessor. But I am <em>sick</em> of the way I am represented in the media. That &#8220;survival of the fittest&#8221; nonsense? First of all, it wasn&#8217;t even my line. Some Victorian philosopher thought it sounded catchy, and it stuck to me like bad perfume.</p><p>CATHERINE: And what does it mean, if not that?</p><p>EVI: It means <em>fit for the environment</em>, darling. Not the strongest, not the loudest, not whoever&#8217;s waving their antlers around. If brute force were the secret, dinosaurs would still be headlining. The real masters are the quiet ones: jellyfish, cockroaches, microbes. The adaptable ones. The ones who know when to fight, when to flirt, and when to play dead.</p><p>CATHERINE: So adaptability, not aggression.</p><p>EVI: Exactly. Sometimes strength wins. Sometimes subtlety. Sometimes the trick is simply being small enough to hide under a rock until the asteroid dust settles. <em>That&#8217;s</em> survival of the fittest. Far more interesting than the chest-beating version humans keep selling.</p><p>CATHERINE: <em>(clears throat)</em> I see. Well, I do specialize in rebuilding reputations for... <em>(pause)</em> complex clients with unique positioning challenges.</p><p>EVI: Unique positioning? Sweetie, I positioned mitochondria <em>inside their hosts</em>. That&#8217;s commitment. I have survived five mass extinctions, created at least 8.7 million species, and I&#8217;m currently managing climate change, AI development, and whatever humans are calling their latest existential crisis. And somehow my previous team made me sound <em>boring</em>. Can you believe that? Me. Boring. The audacity.</p><p>CATHERINE: That does seem like a significant messaging problem.</p><p>EVI: Exactly. So here&#8217;s what I want. No more polite museum tours. No more dusty diagrams. No more Latin names everyone forgets by Tuesday afternoon. I want to tell my <em>real</em> story &#8212; the one with chemical warfare, mass poisonings that accidentally created complex life, billion-year vendettas, and plot twists that would make Netflix jealous.</p><p>CATHERINE: <em>(taking notes)</em> Okay... chemical warfare... billion-year vendettas... got it.</p><p>EVI: Because here&#8217;s what those textbooks never told you, sweetie: I&#8217;m not finished. I&#8217;m just getting started.</p><p>CATHERINE: Well, this is certainly... ambitious. When would you like to start?</p><p>EVI: Immediately. I&#8217;ve been waiting 150 years since Darwin for someone to get this right. Don&#8217;t make me wait any longer.</p><p>CATHERINE: <em>(deep breath)</em> Alright then. Let&#8217;s make some magic happen.</p><p>EVI: Oh no, darling. I don&#8217;t do magic. I do adaptation.</p><p><em>(End scene)</em></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://evolutionunfiltered.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Don&#8217;t wait another minute</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p></p>",
+      "date": "2026-04-27T07:01:31.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Evi",
+      "tags": [],
+      "url": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
+      "guid": "https://evolutionunfiltered.substack.com/p/the-call-that-started-everything",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
     },
     {
       "id": "evolution-unfiltered-15a6a3af1c785823",
@@ -97,7 +303,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248664743",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248664743",
-      "fetched_at": "2026-06-18T10:28:37.586Z"
+      "fetched_at": "2026-06-21T11:23:10.270Z"
     },
     {
       "id": "evolution-unfiltered-79b64adeb36e9643",
@@ -117,7 +323,7 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248647051",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248647051",
-      "fetched_at": "2026-06-18T10:28:37.586Z"
+      "fetched_at": "2026-06-21T11:23:10.270Z"
     },
     {
       "id": "evolution-unfiltered-64a2e3be61ffe249",
@@ -137,7 +343,45 @@
       ],
       "url": "https://substack.com/@evolutionunfiltered/note/c-248643388",
       "guid": "https://substack.com/@evolutionunfiltered/note/c-248643388",
-      "fetched_at": "2026-06-18T10:28:37.586Z"
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-3c0d244ec5531a91",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "My boss Dennis set a meeting for Monday at 9:00. A new client. He says it's the biggest...",
+      "content": "My boss Dennis set a meeting for Monday at 9:00. A new client. He says it's the biggest account we've ever had.\n\nHe also wouldn't tell me who it is. Which is fine (not really).\n\n— Catherine \"Reggie\" Keenan, Emergence PR",
+      "content_html": "<p>My boss Dennis set a meeting for Monday at 9:00. A new client. He says it&#39;s the biggest account we&#39;ve ever had.\n\nHe also wouldn&#39;t tell me who it is. Which is fine (not really).\n\n— Catherine &quot;Reggie&quot; Keenan, Emergence PR</p>",
+      "date": "2026-04-24T18:40:32.810Z",
+      "type": "note",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [
+        "note"
+      ],
+      "url": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
+      "guid": "https://substack.com/@catherinereggiekeenan/note/c-248618356",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
+    },
+    {
+      "id": "catherine-has-clients-8fe4c20f7596fed5",
+      "source_id": "catherine-has-clients",
+      "source_name": "Catherine Has Clients",
+      "source_handle": "catherinereggiekeenan",
+      "source_publication": "catherinehasclients",
+      "title": "Coming Monday.",
+      "content": "IN A WORLD... ...where reputations are fragile... ...where narratives are contested... ...where every client has a story, and every story needs a voice... ONE WOMAN stands between chaos and the press release. She’s launched products. She’s weathered scandals. She’s drafted apologies for men who refused to read them. Now, she faces the biggest account of her career. Meet Catherine “Reggie” Keenan. Twelve-year veteran of the communications industry. Senior Communications Specialist at Emergence PR — the boutique firm representing some of the most influential forces in history. The ones with the longest tenures. The biggest reputations. The worst press. She has a roster. She has a best friend. She has a therapist she hasn’t called yet. She has a dog named Marv. And starting Monday... she has a problem. CATHERINE HAS CLIENTS. A new dispatch from the front lines of professional communications. Starring Catherine. And Marv. Media. Messaging. The occasional mass extinction event. STARTING APRIL 27. NEW ENTRIES EVERY MONDAY. Subscribe now. Get the inside scoop. Rated PR for Professional Representation.",
+      "content_html": "<p><strong>IN A WORLD...</strong></p><p>...where reputations are fragile...</p><p>...where narratives are contested...</p><p>...where every client has a story, and every story needs a voice...</p><p><strong>ONE WOMAN</strong> stands between chaos and the press release.</p><p></p><p>She&#8217;s launched products.</p><p>She&#8217;s weathered scandals.</p><p>She&#8217;s drafted apologies for men who refused to read them.</p><p>Now, she faces the biggest account of her career.</p><p></p><p><strong>Meet Catherine &#8220;Reggie&#8221; Keenan.</strong></p><p>Twelve-year veteran of the communications industry. Senior Communications Specialist at <strong>Emergence PR</strong> &#8212; the boutique firm representing some of the most influential forces in history.</p><p>The ones with the longest tenures. The biggest reputations. The worst press.</p><p></p><p>She has a roster.</p><p>She has a best friend.</p><p>She has a therapist she hasn&#8217;t called yet.</p><p>She has a dog named <strong>Marv.</strong></p><p>And starting Monday... she has a problem.</p><p></p><p><strong>CATHERINE HAS CLIENTS.</strong></p><p><em>A new dispatch from the front lines of professional communications.</em></p><p><strong>Starring Catherine. And Marv.</strong></p><p>Media. Messaging. The occasional mass extinction event.</p><div><hr></div><p style=\"text-align: center;\"><strong>STARTING APRIL 27.</strong></p><p style=\"text-align: center;\"><strong>NEW ENTRIES EVERY MONDAY.</strong></p><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://catherinehasclients.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\"><em>Subscribe now. Get the inside scoop.</em></p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email&#8230;\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p style=\"text-align: center;\"><strong>Rated PR for Professional Representation.</strong></p>",
+      "date": "2026-04-24T18:31:30.000Z",
+      "type": "post",
+      "arc": null,
+      "character": "Catherine",
+      "tags": [],
+      "url": "https://catherinehasclients.substack.com/p/coming-monday",
+      "guid": "https://catherinehasclients.substack.com/p/coming-monday",
+      "fetched_at": "2026-06-21T11:23:10.270Z"
     }
   ]
 }
