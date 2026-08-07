@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T09:35:49.177Z",
+  "generated_at": "2026-08-07T10:00:05.897Z",
   "source_count": 4,
   "item_count": 4,
   "note_count": 4,
   "post_count": 0,
-  "error_count": 2,
+  "error_count": 0,
   "sources": [
     {
       "source_id": "evolution-unfiltered",
@@ -31,18 +31,7 @@
       "skipped": 1
     }
   ],
-  "errors": [
-    {
-      "source_id": "evolution-unfiltered",
-      "stage": "notes",
-      "message": "fetch failed"
-    },
-    {
-      "source_id": "evolution-unfiltered",
-      "stage": "posts",
-      "message": "fetch failed"
-    }
-  ],
+  "errors": [],
   "items": [
     {
       "id": "emergence-pr-18941d0bcdaff6f1",
@@ -62,7 +51,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248158546",
       "guid": "https://substack.com/@emergencepr/note/c-248158546",
-      "fetched_at": "2026-08-07T09:35:49.177Z"
+      "fetched_at": "2026-08-07T10:00:05.897Z"
     },
     {
       "id": "emergence-pr-43c5f2a7b7e4180e",
@@ -82,7 +71,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248154942",
       "guid": "https://substack.com/@emergencepr/note/c-248154942",
-      "fetched_at": "2026-08-07T09:35:49.177Z"
+      "fetched_at": "2026-08-07T10:00:05.897Z"
     },
     {
       "id": "emergence-pr-7762e882d62f8b9f",
@@ -102,7 +91,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248147365",
       "guid": "https://substack.com/@emergencepr/note/c-248147365",
-      "fetched_at": "2026-08-07T09:35:49.177Z"
+      "fetched_at": "2026-08-07T10:00:05.897Z"
     },
     {
       "id": "emergence-pr-b1b2250b8b720e83",
@@ -122,7 +111,7 @@
       ],
       "url": "https://substack.com/@emergencepr/note/c-248140895",
       "guid": "https://substack.com/@emergencepr/note/c-248140895",
-      "fetched_at": "2026-08-07T09:35:49.177Z"
+      "fetched_at": "2026-08-07T10:00:05.897Z"
     }
   ]
 }
